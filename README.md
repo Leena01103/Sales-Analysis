@@ -1,4 +1,5 @@
-📊 Superstore Sales Analysis 
+📊 Superstore Sales Analysis with Power BI
+
 A full-scale business intelligence report analyzing 5,009 orders across 4 years (2016–2019), uncovering the hidden cost of discounting, a Same Day shipping paradox, and a 9× profitability gap between categories.
 ________________________________________
 🗂 Project Overview
