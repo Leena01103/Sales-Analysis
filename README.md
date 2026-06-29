@@ -87,13 +87,13 @@ ________________________________________
 2 — A 9× Profitability Gap Between Categories
 
 
-Category	Profit Margin
+**Category**	      **Profit Margin**
 
-Technology	18.4% ✅
+Technology	          18.4% ✅
 
-Office Supplies	~15% ✅
+Office Supplies      	~15% ✅
 
-Furniture	2.0% ⚠️
+Furniture            	2.0% ⚠️
 
 •	Only 3 of 17 sub-categories are unprofitable: Tables, Bookcases, and Supplies
 
@@ -106,12 +106,12 @@ ________________________________________
 3 — The Same Day Shipping Paradox
 
 
-Ship Mode	Orders	Late Rate	Profit Margin
+**Ship Mode**	     **Orders**     	**Late Rate**	      **Profit Margin**
 
-Same Day	264	4.55% 🔴	3.05% 🔴
-First Class	787	0.13% ✅	15.26% ✅
-Standard Class	~3,000	0% ✅	—
-Second Class	—	0% ✅	—
+Same Day           	264	             4.55% 🔴	               3.05% 🔴
+First Class     	  787	             0.13% ✅	              15.26% ✅
+Standard Class	   ~3,000             	0% ✅                     	—
+Second Class	        —                	0% ✅                      	—
 
 •	Same Day is 35× more likely to be late than First Class
 
