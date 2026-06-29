@@ -87,13 +87,17 @@ ________________________________________
 2 — A 9× Profitability Gap Between Categories
 
 
-**Category**	      **Profit Margin**
+**Category**	                  **Profit Margin**
 
-Technology	          18.4% ✅
 
-Office Supplies      	~15% ✅
+Technology	                       18.4% ✅
 
-Furniture            	2.0% ⚠️
+
+Office Supplies                   	~15% ✅
+
+
+
+Furniture                         	2.0% ⚠️
 
 •	Only 3 of 17 sub-categories are unprofitable: Tables, Bookcases, and Supplies
 
@@ -103,43 +107,35 @@ Furniture            	2.0% ⚠️
 •	Targeting these three sub-categories alone could meaningfully lift overall margins
 ________________________________________
 
-3 — The Same Day Shipping Paradox
+### 3 — The Same Day Shipping Paradox
 
+| Ship Mode | Orders | Late Rate | Profit Margin |
+| --- | --- | --- | --- |
+| Same Day | 264 | 4.55% HIGH | 3.05% LOW |
+| First Class | 787 | 0.13% OK | 15.26% BEST |
+| Standard Class | ~3,000 | 0.00% OK | — |
+| Second Class | — | 0.00% OK | — |
 
-**Ship Mode**	     **Orders**     	**Late Rate**	      **Profit Margin**
-
-Same Day           	264	             4.55% 🔴	               3.05% 🔴
-First Class     	  787	             0.13% ✅	              15.26% ✅
-Standard Class	   ~3,000             	0% ✅                     	—
-Second Class	        —                	0% ✅                      	—
-
-•	Same Day is 35× more likely to be late than First Class
-
-•	Same Day earns 4× less profit than the company average (12%)
-
-•	12 out of 264 Same Day orders were not shipped same day
-
-•	First Class is the strategic opportunity: highest margin, near-perfect reliability
+- Same Day is **35× more likely to be late** than First Class
+- Same Day earns **4× less profit** than the company average (12%)
+- 12 out of 264 Same Day orders were **not shipped same day**
+- First Class is the strategic opportunity: highest margin, near-perfect reliability
 ________________________________________
 4 — Regional Performance Divergence
 
 
-Region	Avg. Ship Days	Late Orders	Profit Margin
+| Region | Avg Ship Days | Late Orders | Profit Margin |
+| --- | --- | --- | --- |
+| East | 3.97 days | Lowest | 15.9% (BEST) |
+| West | 3.93 days | 8 of 13 total | 12% |
+| Central | 4.0 days | Low | 4.6% (LOWEST) |
+| South | 3.97 days | Low | 12% |
 
-East	~3.97	Lowest	15.9% 🏆
-
-West	3.93	8 of 13 total	~12% ⚠️
-
-Central	4.0	Low	4.6% 🔴
-
-South	~3.97	Low	~12%
-
-•	East is the operational benchmark across all dimensions
-
-•	West hides a consistency problem behind a fast average — 8 of 13 late shipments originate here
-
-•	Central is the most urgent concern: slowest AND least profitable, at nearly 3.5× below East's margin
+East is the operational benchmark across all dimensions
+West hides a consistency problem behind a fast average — 8 of 13 late shipments originate here
+Central is the most urgent concern: slowest AND least profitable, at nearly 3.5x below East's margin
 ________________________________________
+
 5 — Customer Concentration Risk
 
 
