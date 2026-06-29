@@ -86,18 +86,11 @@ ________________________________________
 ________________________________________
 2 — A 9× Profitability Gap Between Categories
 
-
-**Category**	                  **Profit Margin**
-
-
-Technology	                       18.4% ✅
-
-
-Office Supplies                   	~15% ✅
-
-
-
-Furniture                         	2.0% ⚠️
+| Category | Profit Margin |
+| --- | --- |
+| Technology | 18.4% (BEST) |
+| Office Supplies | ~15% |
+| Furniture | 2.0% (LOWEST) |
 
 •	Only 3 of 17 sub-categories are unprofitable: Tables, Bookcases, and Supplies
 
