@@ -166,22 +166,22 @@ The report is built on a clean star schema with a dedicated Calendar table enabl
 •	Cross-page Slicers: Year, Category, Region, Salesperson
 ________________________________________
 
-####   📌 **Strategic Recommendations**
+   📌 **Strategic Recommendations**
 
 
 #	Finding	Action
 
-(1)	52% discounted orders; r = −0.03 with Sales	Conduct discount audit; set category-specific caps
+(1) 	52% discounted orders; r = −0.03 with Sales	Conduct discount audit; set category-specific caps
 
-(2)	Tables: −$11K structural loss over 4 years	Review pricing and cost structure; evaluate repositioning
+(2)	 Tables: −$11K structural loss over 4 years	Review pricing and cost structure; evaluate repositioning
 
-(3)	Same Day: 4.55% late rate + 3.05% margin	Reprice or tighten SLA before continuing to offer
+(3)	 Same Day: 4.55% late rate + 3.05% margin	Reprice or tighten SLA before continuing to offer
 
-(4)	Central: lowest margin (4.6%) + slowest shipping	Investigate discount depth and product mix
+(4) 	Central: lowest margin (4.6%) + slowest shipping	Investigate discount depth and product mix
 
-(5)	Top 10 customers = 51.3% of revenue	Launch key account retention program; diversify
+(5) 	Top 10 customers = 51.3% of revenue	Launch key account retention program; diversify
 
-(6)	First Class: 15.26% margin, 0.13% late rate	Incentivize customers toward First Class over Same Day
+(6)	   First Class: 15.26% margin, 0.13% late rate	Incentivize customers toward First Class over Same Day
 ________________________________________
 ####    👤 **About the Author**
 
