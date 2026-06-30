@@ -27,7 +27,7 @@ This report goes beyond surface-level dashboarding. It applies statistical think
 A Waterfall profit bridge traces the exact path from $1.26M gross sales down to $133K net profit, step by step
 ________________________________________
 
-📋 **Report Pages**
+## 📋 **Report Pages**
 
 
 **Page (1)**	Executive Summary	Top-line KPIs and critical business alerts at a glance
