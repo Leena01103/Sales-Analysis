@@ -70,7 +70,7 @@ ________________________________________
 
 
 ________________________________________
-#### 🔑 **Key Findings**
+## 🔑 **Key Findings**
 
 
 1 — The Discount Strategy Is Backfiring
