@@ -192,7 +192,7 @@ ________________________________________
 
 (6)	   First Class: 15.26% margin, 0.13% late rate	Incentivize customers toward First Class over Same Day
 ________________________________________
-###    👤 **About the Author**
+##    👤 **About the Author**
 
 
 Leena A. Elsheikh
@@ -208,7 +208,7 @@ Data Analyst · Freelance  Lecturer· Bilingual (Arabic / English)
 •	📍 Based in Riyadh, Saudi Arabia
  
 ________________________________________
-#### 📄 **License**
+## 📄 **License**
 
 
 This project uses the publicly available Sample Superstore dataset for portfolio and educational purposes.
