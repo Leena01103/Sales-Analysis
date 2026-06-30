@@ -178,7 +178,7 @@ ________________________________________
  ##  📌 **Strategic Recommendations**
 
 
-#	Finding	Action
+
 
 (1) 	52% discounted orders; r = −0.03 with Sales	Conduct discount audit; set category-specific caps
 
