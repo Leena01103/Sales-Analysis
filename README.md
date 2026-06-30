@@ -84,7 +84,7 @@ ________________________________________
 
 •	Cost consumes 77% of gross sales ($967K / $1,257K) — the real lever is cost management
 ________________________________________
-2 — A 9× Profitability Gap Between Categories
+2 — Technology is 9 times more profitable than Furniture per dollar of sales.
 
 | Category | Profit Margin |
 | --- | --- |
