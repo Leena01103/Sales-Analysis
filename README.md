@@ -1,4 +1,4 @@
-📊 **Sales Performance Analysis with Power BI**
+#                             📊 **Sales Performance Analysis with Power BI**
 
 <img width="709" height="329" alt="Image" src="https://github.com/user-attachments/assets/f0268fba-2b23-49e8-93e7-a8f267237efa" />
 
