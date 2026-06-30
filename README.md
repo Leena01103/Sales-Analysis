@@ -143,6 +143,8 @@ Are customers returning because of loyalty — or because of discounts?
 
 •	Corporate has the lowest margin (10.1%) despite being second in sales — likely over-discounted to win deals
 
+________________________________________
+
 
  ###  6 — The forecast projects
 
