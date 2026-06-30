@@ -156,7 +156,7 @@ ________________________________________
 ##   🛠 **Technical Highlights**
 
 
-Data Model
+  ###      **Data Model**
 
 The report is built on a clean star schema with a dedicated Calendar table enabling full time intelligence support. Relationships are managed with single-direction cross-filtering to prevent ambiguity, and a Returns table is joined to the Orders table to enable return rate analysis at the order level.
 
