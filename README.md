@@ -84,7 +84,8 @@ ________________________________________
 
 •	Cost consumes 77% of gross sales ($967K / $1,257K) — the real lever is cost management
 ________________________________________
-2 — Technology is 9 times more profitable than Furniture per dollar of sales.
+
+### 2 — Technology is 9 times more profitable than Furniture per dollar of sales.
 
 | Category | Profit Margin |
 | --- | --- |
@@ -114,7 +115,7 @@ ________________________________________
 - 12 out of 264 Same Day orders were **not shipped same day**
 - First Class is the strategic opportunity: highest margin, near-perfect reliability
 ________________________________________
-4 — Regional Performance Divergence
+   ### 4 — Regional Performance Divergence
 
 
 | Region | Avg Ship Days | Late Orders | Profit Margin |
@@ -129,7 +130,7 @@ West hides a consistency problem behind a fast average — 8 of 13 late shipment
 Central is the most urgent concern: slowest AND least profitable, at nearly 3.5x below East's margin
 ________________________________________
 
-5 — Customer Concentration Risk
+ ###  5 — Customer Concentration Risk
 
 
 •	Top 10 customers = 51.3% of total revenue — losing 1–2 customers has outsized impact
