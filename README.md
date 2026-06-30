@@ -143,6 +143,12 @@ Are customers returning because of loyalty — or because of discounts?
 
 •	Corporate has the lowest margin (10.1%) despite being second in sales — likely over-discounted to win deals
 
+
+ ###  6 — The forecast projects
+
+ 
+The forecast projects a seasonal Q4 2020 peak of approximately $50–55K. While this aligns with historical trends, the widening confidence interval suggests slowing growth and increasing uncertainty.
+
 ________________________________________
 ####   🛠 **Technical Highlights**
 
