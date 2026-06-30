@@ -5,15 +5,15 @@
 
 A full-scale business intelligence report analyzing 5,009 orders across 4 years (2016–2019), uncovering the hidden cost of discounting, a Same Day shipping paradox, and a 9× profitability gap between categories.
 ________________________________________
-🗂 **Project Overview**
+##                                         🗂 **Project Overview**
 
-**Background**
+###       **Background**
 
 This project was built as a demonstration of end-to-end business intelligence work — from raw data to executive-ready insights. The dataset used is the Sample Superstore, a widely recognized retail dataset covering four years of order transactions (2016–2019) across the United States, spanning three product categories, four sales regions, and multiple customer segments.
 
 The goal was not simply to visualize sales figures, but to answer real business questions: Why is profit margin thin despite strong revenue growth? Is the discounting strategy actually working? Which shipping mode is truly profitable? Where are the hidden losses?
 
-**What This Project Demonstrates**
+   ###        **What This Project Demonstrates**
 
 
 This report goes beyond surface-level dashboarding. It applies statistical thinking — correlation analysis, time intelligence, and segmentation — to surface findings that a standard report would miss:
