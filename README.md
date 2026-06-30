@@ -13,18 +13,7 @@ This project was built as a demonstration of end-to-end business intelligence wo
 
 The goal was not simply to visualize sales figures, but to answer real business questions: Why is profit margin thin despite strong revenue growth? Is the discounting strategy actually working? Which shipping mode is truly profitable? Where are the hidden losses?
 
-   ###        **What This Project Demonstrates**
-
-
-This report goes beyond surface-level dashboarding. It applies statistical thinking — correlation analysis, time intelligence, and segmentation — to surface findings that a standard report would miss:
-
-
--The discount–sales relationship (r = −0.03) reveals that discounting is not driving volume — a finding that challenges a common business assumption
   
--The Same Day shipping paradox exposes how a customer-facing feature can be simultaneously the most failure-prone and least profitable mode
-
--Salesperson-level margin analysis shows how top-line revenue rankings can be misleading when profitability is factored in
-A Waterfall profit bridge traces the exact path from $1.26M gross sales down to $133K net profit, step by step
 ________________________________________
 
 ## 📋 **Report Pages**
