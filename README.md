@@ -152,7 +152,8 @@ ________________________________________
 The forecast projects a seasonal Q4 2020 peak of approximately $50–55K. While this aligns with historical trends, the widening confidence interval suggests slowing growth and increasing uncertainty.
 
 ________________________________________
-####   🛠 **Technical Highlights**
+
+##   🛠 **Technical Highlights**
 
 
 Data Model
