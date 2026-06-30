@@ -161,7 +161,7 @@ Data Model
 The report is built on a clean star schema with a dedicated Calendar table enabling full time intelligence support. Relationships are managed with single-direction cross-filtering to prevent ambiguity, and a Returns table is joined to the Orders table to enable return rate analysis at the order level.
 
 
- ####     **Report Features**
+ ##     **Report Features**
 
 
 •	Time Intelligence: YTD, YoY, ETS 12-month sales forecast
@@ -175,7 +175,7 @@ The report is built on a clean star schema with a dedicated Calendar table enabl
 •	Cross-page Slicers: Year, Category, Region, Salesperson
 ________________________________________
 
-   📌 **Strategic Recommendations**
+ ##  📌 **Strategic Recommendations**
 
 
 #	Finding	Action
@@ -192,7 +192,7 @@ ________________________________________
 
 (6)	   First Class: 15.26% margin, 0.13% late rate	Incentivize customers toward First Class over Same Day
 ________________________________________
-####    👤 **About the Author**
+###    👤 **About the Author**
 
 
 Leena A. Elsheikh
