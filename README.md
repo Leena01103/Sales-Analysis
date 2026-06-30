@@ -73,7 +73,7 @@ ________________________________________
 ## 🔑 **Key Findings**
 
 
-1 — The Discount Strategy Is Backfiring
+### 1 — The Discount Strategy Is Backfiring
 
 
 52% of all orders are discounted — yet discounts have near-zero effect on sales volume (r = −0.03) and actively erode profit (r = −0.24). The business is giving away margin without gaining sales in return.
